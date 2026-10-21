@@ -290,7 +290,7 @@
     "type": "mqtt in",
     "z": "e9c0663c070995aa",
     "name": "mqtt receiver",
-    "topic": "/mytopic/mysubtopic",
+    "topic": "mytopic/mysubtopic/json",
     "qos": "2",
     "datatype": "auto-detect",
     "broker": "8afedcb8053c9512",
